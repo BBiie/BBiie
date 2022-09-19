@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BBiie
 - 👀 I’m interested in reading and writing
 - 🌱 I’m currently learning full stack engineering with ALX
-- 💞️ I’m looking to collaborate on anything TEC..
+- 💞️ I’m looking to collaborate on anything TECH
 
 <!
 BBiie/BBiie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
